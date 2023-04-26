@@ -1,0 +1,494 @@
+##########################################################################
+
+######################## Raw Output #############################
+
+STTSEL THATS
+INCOME TAX DEPARTMENT
+GOVT. OF INDIA
+Sarat cal Gen are
+Permanent Account Number Card
+AXBPL1820D
+ara/ Name
+MOHD AZFAR ALAM LARI
+T7aT T -7Ta/ Fathers Name
+NAZAM SHAMSHAD LARI
+WH Ht aa / Date of Birth
+05/08/1999
+weata/ Signature
+
+
+######################## Cleaned Output #############################
+
+PAN No : AXBPL1820D
+Date Of Birth : 05/08/1999
+Name : MOHD AZFAR ALAM LARI
+Father's Name : NAZAM SHAMSHAD LARI
+##########################################################################
+
+##########################################################################
+
+######################## Raw Output #############################
+
+Prva fie
+Naosh Singh
+ST RPE f HOB -ovot1e8s
+Mate
+4444 3333 2222
+are AT Bent ar afar
+
+
+######################## Cleaned Output #############################
+
+Name : ST RPE f HOB -ovot1e8s
+Aadhar No : 4444 3333 2222
+##########################################################################
+
+##########################################################################
+
+######################## Raw Output #############################
+
+STITT THATS
+INCOME TAX DEPARTMENT
+GOVT. OF INDIA
+Sarat cal Gen are
+Permanent Account Number Card
+AXBPL1820D
+ara/ Name
+MOHD AZFAR ALAM LARI
+T7aT T -ATS/ Fathers Name
+NAZAM SHAMSHAD LARI
+WH Hl Aa / Date of Birth
+05/08/1999
+weara/ Signature
+
+
+######################## Cleaned Output #############################
+
+PAN No : AXBPL1820D
+Date Of Birth : 05/08/1999
+Name : MOHD AZFAR ALAM LARI
+Father's Name : NAZAM SHAMSHAD LARI
+##########################################################################
+
+##########################################################################
+
+######################## Raw Output #############################
+
+x, STA TART
+-GOVT. OF INDIA.
+INCOME TAX DEPARTMENT
+SUBHAM TEWARI
+SHIBPRASAD TEWARI
+-01/01/1994
+Permanent Account Number
+ATKPT3015F
+Sulshon
+Signature /
+
+
+######################## Cleaned Output #############################
+
+PAN No : ATKPT3015F
+Date Of Birth : 01/01/1994
+Name : SUBHAM TEWARI
+Father's Name : SHIBPRASAD TEWARI
+##########################################################################
+
+##########################################################################
+
+######################## Raw Output #############################
+
+ANT GH
+Government of India.
+AM STATA
+Shamshad Alam
+oteat Taft / DOB 27/05/1940
+Tee / Male
+8343 7100 1074
+STUN - 3A AIGA Hr 3a
+
+
+######################## Cleaned Output #############################
+
+Name : Shamshad Alam
+Aadhar No : 8343 7100 1074
+Gender : Male
+Date of Birth : 27/05/1940
+##########################################################################
+
+##########################################################################
+
+######################## Raw Output #############################
+
+amy / Name
+Adarsh kumar
+aH ante / DOB 17/06/1995
+GeT/ Male
+595022738641
+FTI - HAT BT WUTHT
+
+
+######################## Cleaned Output #############################
+
+Name : amy / Name
+Year of Birth : 5950
+Date of Birth : 17/06/1995
+##########################################################################
+
+##########################################################################
+
+######################## Raw Output #############################
+
+amy / Name
+Adarsh kumar
+aH ante / DOB 17/06/1995
+GeT/ Male
+595022738641
+FTI - HAT BT WUTHT
+
+
+######################## Cleaned Output #############################
+
+Name : amy / Name
+Year of Birth : 5950
+Date of Birth : 17/06/1995
+##########################################################################
+
+##########################################################################
+
+######################## Raw Output #############################
+
+GOVT. OF INDIA
+INCOME TAX DEPARTMENT.
+Tere aT
+SURESH SINGH.
+SHIV. SINGH
+02/07/1977
+Permanent Account Number
+BAPPS1841D
+Sigifature
+
+
+######################## Cleaned Output #############################
+
+PAN No : BAPPS1841D
+Date Of Birth : 02/07/1977
+Name : SURESH SINGH
+Father's Name : SHIV SINGH
+##########################################################################
+
+##########################################################################
+
+######################## Raw Output #############################
+
+ART Ua
+GOVT. OF INDIA
+INCOME TAX DEPARTMENT
+t DMANIKANDAN
+DURAISAMY
+16/07/1986
+Permanent Account Number
+BNZPM2501F
+D-worigam eb
+Signature
+
+
+######################## Cleaned Output #############################
+
+PAN No : BNZPM2501F
+Date Of Birth : 16/07/1986
+Name : DURAISAMY
+##########################################################################
+
+##########################################################################
+
+######################## Raw Output #############################
+
+INCOME TAX DEPARTMENT
+GOVT OF INDIA
+SAHANA BHARAMA HANJI
+BHARAMIA HANJI
+22/06/1998
+Permenent Account Number
+APIPH5278L
+ILOZBO6Laoe
+, . cc,Clermeture
+
+
+######################## Cleaned Output #############################
+
+PAN No : APIPH5278L
+Date Of Birth : 22/06/1998
+Name : SAHANA BHARAMA HANJI
+Father's Name : BHARAMIA HANJI
+##########################################################################
+
+##########################################################################
+
+######################## Raw Output #############################
+
+Prva fie
+Naosh Singh
+ST RPE f HOB -ovot1e8s
+Mate
+4444 3333 2222
+are AT Bent ar afar
+
+
+######################## Cleaned Output #############################
+
+Name : ST RPE f HOB -ovot1e8s
+Aadhar No : 4444 3333 2222
+##########################################################################
+
+##########################################################################
+
+######################## Raw Output #############################
+
+NT GH
+Government of India
+dart Ware
+Sandeep K Powar
+wea a8 / Year of Birth 1971
+qea / Male
+6686 1155 6769
+
+
+######################## Cleaned Output #############################
+
+Aadhar No : 6686 1155 6769
+Gender : Male
+Name : Sandeep K Powar
+Year of Birth : 1971
+##########################################################################
+
+##########################################################################
+
+######################## Raw Output #############################
+
+Mobic Ib liMolit P-thIR - AlBEe
+L90P LLES SES
+STV / EYE
+SE6L/ZL/S8Z GO / BINP tein
+eyr sewnyfesaayg Aeulygy
+
+
+######################## Cleaned Output #############################
+
+Name : Mobic Ib liMolit P-thIR - AlBEe
+##########################################################################
+
+##########################################################################
+
+######################## Raw Output #############################
+
+Prva fie
+Naosh Singh
+ST RPE f HOB -ovot1e8s
+Mate
+4444 3333 2222
+are AT Bent ar afar
+
+
+######################## Cleaned Output #############################
+
+Name : ST RPE f HOB -ovot1e8s
+Aadhar No : 4444 3333 2222
+##########################################################################
+
+##########################################################################
+
+######################## Raw Output #############################
+
+(Government of India.
+ael add Had
+Neha Jaywant Kale
+sie aha / DOB 14/03/2000
+Eat / Female
+Olarict
+7944 1648 5838
+
+
+######################## Cleaned Output #############################
+
+Aadhar No : 7944 1648 5838
+Gender : Female
+Name : ael add Had
+Date of Birth : 14/03/2000
+##########################################################################
+
+##########################################################################
+
+######################## Raw Output #############################
+
+INCOME TAX DEPARTMENT
+GOVT OF INDIA
+SAHANA BHARAMA HANJI
+BHARAMIA HANJI
+22/06/1998
+Permenent Account Number
+APIPH5278L
+ILOZBO6Laoe
+, . cc,Clermeture
+
+
+######################## Cleaned Output #############################
+
+PAN No : APIPH5278L
+Date Of Birth : 22/06/1998
+Name : SAHANA BHARAMA HANJI
+Father's Name : BHARAMIA HANJI
+##########################################################################
+
+##########################################################################
+
+######################## Raw Output #############################
+
+Siejeay yerINCOME TAX DEPARTSAHANA BHARAM/
+S66L/CO/eH VIAWUVHE
+SS peeeREPARTMENT
+umoer
+HANJ
+Arne se courteHELGOVE. C
+ra are ira(NYSlO td
+
+
+######################## Cleaned Output #############################
+
+PAN No : None
+Date Of Birth : None
+Name : HANJ
+##########################################################################
+
+##########################################################################
+
+######################## Raw Output #############################
+
+Permanent Account Number Card
+KULKARNI SHARDUL
+fat r art -/ Fathers Name
+ret/ Date of Birth
+Bema / Signature
+14/06/2000
+
+
+######################## Cleaned Output #############################
+
+PAN No : None
+Date Of Birth : 14/06/2000
+Name : KULKARNI SHARDUL
+##########################################################################
+
+##########################################################################
+
+######################## Raw Output #############################
+
+ART Ua
+GOVT. OF INDIA
+INCOME TAX DEPARTMENT
+t DMANIKANDAN
+DURAISAMY
+16/07/1986
+Permanent Account Number
+BNZPM2501F
+D-worigam eb
+Signature
+
+
+######################## Cleaned Output #############################
+
+PAN No : BNZPM2501F
+Date Of Birth : 16/07/1986
+Name : DURAISAMY
+##########################################################################
+
+##########################################################################
+
+######################## Raw Output #############################
+
+GOVT. OF INDIA
+INCOME TAX DEPARTMENT.
+Tere aT
+SURESH SINGH.
+SHIV. SINGH
+02/07/1977
+Permanent Account Number
+BAPPS1841D
+Sigifature
+
+
+######################## Cleaned Output #############################
+
+PAN No : BAPPS1841D
+Date Of Birth : 02/07/1977
+Name : SURESH SINGH
+Father's Name : SHIV SINGH
+##########################################################################
+
+##########################################################################
+
+######################## Raw Output #############################
+
+GOVT. OF INDIA
+INCOME TAX DEPARTMENT.
+Tere aT
+SURESH SINGH.
+SHIV. SINGH
+02/07/1977
+Permanent Account Number
+BAPPS1841D
+Sigifature
+
+
+######################## Cleaned Output #############################
+
+PAN No : BAPPS1841D
+Date Of Birth : 02/07/1977
+Name : SURESH SINGH
+Father's Name : SHIV SINGH
+##########################################################################
+
+##########################################################################
+
+######################## Raw Output #############################
+
+Prva fie
+Naosh Singh
+ST RPE f HOB -ovot1e8s
+Mate
+4444 3333 2222
+are AT Bent ar afar
+
+
+######################## Cleaned Output #############################
+
+Name : ST RPE f HOB -ovot1e8s
+Aadhar No : 4444 3333 2222
+##########################################################################
+
+##########################################################################
+
+######################## Raw Output #############################
+
+STITT THATS
+INCOME TAX DEPARTMENT
+GOVT. OF INDIA
+Sarat cal Gen are
+Permanent Account Number Card
+AXBPL1820D
+ara/ Name
+MOHD AZFAR ALAM LARI
+T7aT T -ATS/ Fathers Name
+NAZAM SHAMSHAD LARI
+WH Hl Aa / Date of Birth
+05/08/1999
+weara/ Signature
+
+
+######################## Cleaned Output #############################
+
+Date of Birth : 05/08/1999
+Name : INCOME TAX DEPARTMENT
+Year of Birth : 1820
+##########################################################################
+
